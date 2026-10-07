@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "path": "public/assets/highland-road.jpg",
+      "size": 287880,
+      "sha256": "0d594f7326ebe765fd60ce3f832709e34baf47200475ddc1fd3eaaa92d6ee8a9",
+      "chunk_paths": [
+        ".export/art-round2/chunks/highland-road-001.txt",
+        ".export/art-round2/chunks/highland-road-002.txt",
+        ".export/art-round2/chunks/highland-road-003.txt",
+        ".export/art-round2/chunks/highland-road-004.txt",
+        ".export/art-round2/chunks/highland-road-005.txt",
+        ".export/art-round2/chunks/highland-road-006.txt",
+        ".export/art-round2/chunks/highland-road-007.txt",
+        ".export/art-round2/chunks/highland-road-008.txt",
+        ".export/art-round2/chunks/highland-road-009.txt",
+        ".export/art-round2/chunks/highland-road-010.txt",
+        ".export/art-round2/chunks/highland-road-011.txt",
+        ".export/art-round2/chunks/highland-road-012.txt"
+      ]
+    },
+    {
+      "path": "public/assets/upholstery-study.jpg",
+      "size": 219509,
+      "sha256": "5ddb58ad1e329eb6dc5f033a527f81e19490096e2130e4dce063844bbda66801",
+      "chunk_paths": [
+        ".export/art-round2/chunks/upholstery-study-001.txt",
+        ".export/art-round2/chunks/upholstery-study-002.txt",
+        ".export/art-round2/chunks/upholstery-study-003.txt",
+        ".export/art-round2/chunks/upholstery-study-004.txt",
+        ".export/art-round2/chunks/upholstery-study-005.txt",
+        ".export/art-round2/chunks/upholstery-study-006.txt",
+        ".export/art-round2/chunks/upholstery-study-007.txt",
+        ".export/art-round2/chunks/upholstery-study-008.txt",
+        ".export/art-round2/chunks/upholstery-study-009.txt",
+        ".export/art-round2/chunks/upholstery-study-010.txt"
+      ]
+    },
+    {
+      "path": "public/assets/journey-equipment.jpg",
+      "size": 242677,
+      "sha256": "a1a4d54f4438d98001146676dc9f176c0ccde851fbcaf3434579a492982e4362",
+      "chunk_paths": [
+        ".export/art-round2/chunks/journey-equipment-001.txt",
+        ".export/art-round2/chunks/journey-equipment-002.txt",
+        ".export/art-round2/chunks/journey-equipment-003.txt",
+        ".export/art-round2/chunks/journey-equipment-004.txt",
+        ".export/art-round2/chunks/journey-equipment-005.txt",
+        ".export/art-round2/chunks/journey-equipment-006.txt",
+        ".export/art-round2/chunks/journey-equipment-007.txt",
+        ".export/art-round2/chunks/journey-equipment-008.txt",
+        ".export/art-round2/chunks/journey-equipment-009.txt",
+        ".export/art-round2/chunks/journey-equipment-010.txt",
+        ".export/art-round2/chunks/journey-equipment-011.txt"
+      ]
+    },
+    {
+      "path": "public/assets/controls-detail.jpg",
+      "size": 28066,
+      "sha256": "3f0272e0028c5f0050954a44db35924cceaaa206acfb1ebbebc4251e1ae19adf",
+      "chunk_paths": [
+        ".export/art-round2/chunks/controls-detail-001.txt",
+        ".export/art-round2/chunks/controls-detail-002.txt"
+      ]
+    }
+  ]
+}
