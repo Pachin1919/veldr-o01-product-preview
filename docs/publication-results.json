@@ -1,0 +1,148 @@
+{
+  "key": "veldr",
+  "matrix": [
+    {
+      "width": 1440,
+      "route": "",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "VELDR O/01 — The Long Way",
+        "h1": "THE\nLONG\nWAY.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "THE\nLONG\nWAY.",
+        "overflow": 0
+      }
+    },
+    {
+      "width": 1440,
+      "route": "design/",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "Exterior Design — VELDR O/01",
+        "h1": "A clear silhouette.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "清晰的轮廓。",
+        "overflow": 0
+      }
+    },
+    {
+      "width": 1440,
+      "route": "cabin/",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "Cabin Design — VELDR O/01",
+        "h1": "Keep it simple.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "座舱不必复杂。",
+        "overflow": 0
+      }
+    },
+    {
+      "width": 1440,
+      "route": "explore/",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "Three-view Showroom — VELDR O/01",
+        "h1": "Three views. One idea.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "三个视角，同一个想法。",
+        "overflow": 0
+      }
+    },
+    {
+      "width": 390,
+      "route": "",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "VELDR O/01 — The Long Way",
+        "h1": "THE\nLONG\nWAY.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "THE\nLONG\nWAY.",
+        "overflow": 0
+      }
+    },
+    {
+      "width": 390,
+      "route": "design/",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "Exterior Design — VELDR O/01",
+        "h1": "A clear silhouette.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "清晰的轮廓。",
+        "overflow": 0
+      }
+    },
+    {
+      "width": 390,
+      "route": "cabin/",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "Cabin Design — VELDR O/01",
+        "h1": "Keep it simple.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "座舱不必复杂。",
+        "overflow": 0
+      }
+    },
+    {
+      "width": 390,
+      "route": "explore/",
+      "status": 200,
+      "en": {
+        "lang": "en",
+        "title": "Three-view Showroom — VELDR O/01",
+        "h1": "Three views. One idea.",
+        "overflow": 0,
+        "broken": []
+      },
+      "zh": {
+        "lang": "zh-CN",
+        "h1": "三个视角，同一个想法。",
+        "overflow": 0
+      }
+    }
+  ],
+  "interaction": {
+    "hotspot": "true",
+    "galleryBefore": "/veldr-o01-product-preview/assets/hero-plateau.png",
+    "galleryAfter": "/veldr-o01-product-preview/assets/side-profile.png"
+  },
+  "errors": [],
+  "bad": []
+}
