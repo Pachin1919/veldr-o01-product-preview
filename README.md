@@ -1,21 +1,24 @@
-# VELDR O/01 — Vehicle Product Preview
+# VELDR O/01
 
-A standalone, scrolling product page for a fictional 4×4 SUV. The concept vehicle and all three campaign images were generated for this demo. It uses no real automotive brand, no music, no backend, and no third-party runtime dependency.
+[Live demo](https://pachin1919.github.io/veldr-o01-product-preview/)
 
-![Desktop preview of the VELDR O/01 landing page](assets/preview.png)
+![Desktop preview](assets/preview.png)
 
-[Live preview](https://pachin1919.github.io/veldr-o01-product-preview/)
+A complete standalone bilingual visual frontend, expanded from the original demo with Lovable and adapted for static GitHub Pages hosting.
 
-## Preview locally
+## Pages
 
-In PowerShell, from this folder:
+- /
+- /design
+- /cabin
+- /explore
 
-```powershell
-py -m http.server 4340 --bind 127.0.0.1
-```
+## Local development
 
-Then open `http://127.0.0.1:4340/`.
+Run npm.cmd install, then npm.cmd run dev.
 
-This is a visual concept, not a purchasable vehicle. The copy describes design intent rather than verified engineering specifications.
+## Build
 
-Barlow Condensed, IBM Plex Sans, and Noto Sans SC are self-hosted, with SIL Open Font License texts in `assets/`. The Noto Sans SC file is a page-specific subset obtained through the Google Fonts CSS API; regenerate it when changing the Chinese copy.
+Run npm.cmd run build.
+
+[Deployment notes](docs/GITHUB-PAGES.md). Original artwork remains project-specific and is not licensed for general reuse; font OFL notices are included. Repository history preserves the earlier standalone demo.
