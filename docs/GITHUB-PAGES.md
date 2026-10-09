@@ -1,6 +1,6 @@
 # GitHub Pages delivery
 
-Source Lovable revision: ff7cadd51d4a3931500751649b3937c958b63875.
+Source snapshot: ff7cadd51d4a3931500751649b3937c958b63875.
 
 The reviewed React/TanStack route content and interactions are retained. Hosting is adapted to a static Vite browser app; the server wrapper and platform error-reporting transport are excluded. Repository base path is /veldr-o01-product-preview/. Every known detail route gets a physical index.html for direct entry and refresh.
 
